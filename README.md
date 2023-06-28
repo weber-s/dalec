@@ -15,7 +15,7 @@ generic way independent of the source.
 
 It's designed to be customized / extended to fit your needs.
 
-TEST COVERAGE
+TEST COVERAGE v2
 
 ![Logo de DALEC](https://raw.githubusercontent.com/webu/dalec/main/logo.png)
 
